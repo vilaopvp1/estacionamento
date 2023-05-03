@@ -1,0 +1,10 @@
+@media screen and (min-width: 900px) {
+    .full-width-rodape{
+        padding-top: 1cm;
+    } 
+}
+
+
+@media screen and (max-width: 900px) {
+}
+

@@ -1,0 +1,46 @@
+@media screen and (min-width: 900px) {
+    .full-width-n1{
+        font-family: 'Times New Roman', Times, serif;
+        color: azure;
+        margin-top: 1cm;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .full-width-n1{
+        font-family: 'Times New Roman', Times, serif;
+        color: azure;
+        margin-top: 1cm;
+    }
+}
+
+
+@media screen and (min-width: 900px) {
+    .full-width-mapa{
+        width: 100%;
+         margin-top: 2cm;
+    }  
+}
+
+
+@media screen and (max-width: 900px) {
+    .full-width-mapa{
+        width: 100%;
+         margin-top: 2cm;
+    }  
+}
+
+@media screen and (min-width: 900px) {
+    .full-width-rodape{
+        font-family: 'Times New Roman', Times, serif;
+        padding-top: 5cm;
+    } 
+}
+
+
+@media screen and (max-width: 900px) {
+    .full-width-rodape{
+        font-family: 'Times New Roman', Times, serif;
+        padding-top: 3cm;
+    } 
+}

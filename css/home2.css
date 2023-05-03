@@ -1,0 +1,101 @@
+@media screen and (min-width: 900px) {
+    .full-width-n1{
+        font-family: 'Times New Roman', Times, serif;
+        color: azure;
+        padding-top: 1cm;
+    }
+}
+
+@media screen and (max-width: 900px) {
+}
+
+
+
+@media screen and (min-width: 900px) {
+    .full-width-conteudo{
+        font-family: 'Times New Roman', Times, serif;
+        color: azure;
+        padding-top: 1cm;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .full-width-conteudo{
+        font-family: 'Times New Roman', Times, serif;
+        color: azure;    
+    }
+}
+
+
+
+@media screen and (min-width: 900px) {
+    .img1{
+        width: 198vh;
+        height: 80vh;
+        margin-top: cm;
+    }
+    
+}
+
+@media screen and (max-width: 900px) {
+    .img1{
+        width: 56vh;
+        height: 84vh;
+        margin-top: cm;
+    }
+}
+
+
+
+@media screen and (min-width: 900px) {
+    .full-width-div{
+        width: 500px;
+        height: 300px;
+        color: #ff0000;
+        border-radius: 5cm;
+        margin-top: -10cm;
+        margin-right: 30cm;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .full-width-div{
+        width: 400px;
+        height: 200px;
+        color: #020202;
+        margin-top: -6cm;
+        margin-right:cm;
+        padding-right: 2cm;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    .full-width-p{
+        color: azure;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .full-width-p{
+        color: azure;
+    }
+}
+
+
+
+@media screen and (min-width: 900px) {
+    .full-width-rodape{
+        font-family: 'Times New Roman', Times, serif;
+        margin-top: 3cm;
+    } 
+}
+
+@media screen and (max-width: 900px) {
+    .full-width-rodape{
+        font-family: 'Times New Roman', Times, serif;
+        padding-top: 1cm;
+    } 
+}
+
+
+
